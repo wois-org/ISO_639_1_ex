@@ -32,8 +32,7 @@ defmodule ISO6391.MixProject do
     [
       {:ex_doc, ">= 0.0.0", only: [:dev], runtime: false},
       {:credo, "~> 1.4", only: [:dev, :test], runtime: false},
-      # {:version_release, "0.5.2", only: [:dev], runtime: false}
-      {:version_release, path: "../../elixir-version-release"}
+      {:version_release, "0.5.3", only: [:dev], runtime: false}
     ]
   end
 end

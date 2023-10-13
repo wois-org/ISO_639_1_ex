@@ -9,5 +9,5 @@
   "makeup_elixir": {:hex, :makeup_elixir, "0.16.1", "cc9e3ca312f1cfeccc572b37a09980287e243648108384b97ff2b76e505c3555", [:mix], [{:makeup, "~> 1.0", [hex: :makeup, repo: "hexpm", optional: false]}, {:nimble_parsec, "~> 1.2.3 or ~> 1.3", [hex: :nimble_parsec, repo: "hexpm", optional: false]}], "hexpm", "e127a341ad1b209bd80f7bd1620a15693a9908ed780c3b763bccf7d200c767c6"},
   "makeup_erlang": {:hex, :makeup_erlang, "0.1.2", "ad87296a092a46e03b7e9b0be7631ddcf64c790fa68a9ef5323b6cbb36affc72", [:mix], [{:makeup, "~> 1.0", [hex: :makeup, repo: "hexpm", optional: false]}], "hexpm", "f3f5a1ca93ce6e092d92b6d9c049bcda58a3b617a8d888f8e7231c85630e8108"},
   "nimble_parsec": {:hex, :nimble_parsec, "1.3.1", "2c54013ecf170e249e9291ed0a62e5832f70a476c61da16f6aac6dca0189f2af", [:mix], [], "hexpm", "2682e3c0b2eb58d90c6375fc0cc30bc7be06f365bf72608804fb9cffa5e1b167"},
-  "version_release": {:hex, :version_release, "0.5.2", "36de5a7529600b7f48cd4474951b3ab56bfcb0d49e9cb8c221eb1042a3b1c191", [:mix], [], "hexpm", "af7b8a1a50e0f80b3fb8bcde7eaf5ee259f4b2b8136082af0f5cdf387f564c61"},
+  "version_release": {:hex, :version_release, "0.5.3", "1a9fc387985544cc314f27df4308c0bf7a6c3221c1cd7bb0c4ecd789fed3d30c", [:mix], [], "hexpm", "118103306486595349879f6adac7aceafb2a1a225fe6998918571b401f0d359e"},
 }

@@ -1,4 +1,5 @@
 defmodule ISO6391.Codes do
+  @moduledoc false
   def list() do
     [
       %{iso_639_1: "ab", name: "Abkhazian"},
