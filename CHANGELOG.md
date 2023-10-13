@@ -8,4 +8,4 @@
 * Function to convert from language name code to ISO_639_1
 
 <!-- next-url -->
-[Unreleased]: https://github.com/wois-org/ISO_639_1_ex/compare/4718b80...HEAD
+[Unreleased]: https://github.com/wois-org/ISO_639_1_ex/compare/408dd94...HEAD
