@@ -15,7 +15,7 @@ end
 ```
 
 ## Usage
-```
+```elixir
 # Get the ISO 639-1 code for English
 ISO6391.to_code("English")
 #=> "en"
