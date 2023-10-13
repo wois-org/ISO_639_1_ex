@@ -27,4 +27,4 @@ ISO6391.from_code("en")
 
 ### Documentation
 
-The docs can be found at HexDocs. 
+The docs can be found at [HexDocs](https://hexdocs.pm/iso_629_1_ex/readme.html). 
