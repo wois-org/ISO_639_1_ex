@@ -2,6 +2,8 @@
 <!-- next-header -->
 
 ## [Unreleased] - ReleaseDate
+
+## [0.1.1] - 2023-10-16
 ### Fixed
 * Library mix name
 
@@ -13,5 +15,6 @@
 * Function to convert from language name code to ISO_639_1
 
 <!-- next-url -->
-[Unreleased]: https://github.com/wois-org/ISO_639_1_ex/v0.1.0...HEAD
+[Unreleased]: https://github.com/wois-org/ISO_639_1_ex/v0.1.1...HEAD
+[0.1.1]: https://github.com/wois-org/ISO_639_1_ex/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/wois-org/ISO_639_1_ex/compare/4718b80...v0.1.0

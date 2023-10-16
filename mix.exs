@@ -4,7 +4,7 @@ defmodule ISO6391.MixProject do
   def project do
     [
       app: :iso_639_1_ex,
-      version: "0.1.1-alpha.0",
+      version: "0.1.1",
       elixir: "~> 1.8",
       description: "iso_639_1 conversion tool ",
       package: [
