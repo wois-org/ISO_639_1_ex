@@ -2,6 +2,9 @@
 <!-- next-header -->
 
 ## [Unreleased] - ReleaseDate
+### Fixed
+* Library mix name
+
 ## [0.1.0] - 2023-10-13
 ### Added
 * Initial library configuration

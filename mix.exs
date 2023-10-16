@@ -3,12 +3,12 @@ defmodule ISO6391.MixProject do
 
   def project do
     [
-      app: :iso_629_1_ex,
+      app: :iso_639_1_ex,
       version: "0.1.1-alpha.0",
       elixir: "~> 1.8",
-      description: "iso_629_1 conversion tool ",
+      description: "iso_639_1 conversion tool ",
       package: [
-        name: "iso_629_1_ex",
+        name: "iso_639_1_ex",
         files: ~w(lib .formatter.exs mix.exs README* LICENSE CHANGELOG*),
         licenses: ["MIT"],
         links: %{"GitHub" => "https://github.com/wois-org/ISO_639_1_ex"}
